@@ -1,0 +1,17 @@
+id : pelanggan
+pw: pelanggan
+
+id:teknisi
+pw:teknisi
+
+id:stafadmin
+pw:stafadmin
+
+id:kasir
+pw:kasir
+
+id:manager
+pw:manager
+
+id:owner
+pw:owner
